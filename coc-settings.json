@@ -1,0 +1,95 @@
+{
+  "diagnostic.floatConfig": {
+    "border": true,
+    "highlight": "Normal",
+    "maxWidth": 100,
+    "focusable": false
+  },
+  "hover.floatConfig": {
+    "border": true,
+    "highlight": "Normal",
+    "maxWidth": 100,
+    "focusable": false
+  },
+  "signature.floatConfig": {
+    "border": true,
+    "highlight": "Normal",
+    "maxWidth": 100,
+    "focusable": false
+  },
+  "suggest.floatConfig": {
+    "border": true,
+    "highlight": "Normal",
+    "maxWidth": 100,
+    "focusable": false
+  },
+  "dialog.floatHighlight": "Normal",
+  "dialog.floatBorderHighlight": "Normal",
+  "diagnostic.errorSign": "",
+  "diagnostic.warningSign": "",
+  "diagnostic.infoSign": "",
+  "diagnostic.hintSign": "",
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextCurrentLineOnly": false,
+  "diagnostic.virtualTextPrefix": " ",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "typescript",
+    "graphql",
+    "html",
+    "yaml",
+    "json"
+  ],
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.suggest.includeCompletionsForImportStatements": true,
+  "typescript.suggest.importStatements": true,
+  "prettier.singleQuote": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "suggest.completionItemKindLabels": {
+    "variable": "",
+    "text": "",
+    "method": "",
+    "function": "",
+    "field": "ﰠ",
+    "class": "ﴯ",
+    "interface": "",
+    "module": "",
+    "property": "ﰠ",
+    "unit": "塞",
+    "value": "",
+    "enum": "",
+    "keyword": "",
+    "snippet": "",
+    "color": "",
+    "file": "",
+    "reference": "",
+    "folder": "",
+    "enumMember": "",
+    "constant": "",
+    "struct": "פּ",
+    "event": "",
+    "operator": "",
+    "typeParameter": ""
+  },
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "explorer.icon.source": "nvim-web-devicons",
+  "explorer.file.showHiddenFiles": true,
+  "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": false,
+  "explorer.file.column.clip.copy": "",
+  "explorer.file.column.clip.cut": "",
+  "explorer.file.root.template": "[icon & 1] PROJECT ([root])",
+  "explorer.buffer.root.template": "[icon & 1] OPEN EDITORS",
+  "explorer.file.child.template": "[git | 2] [selection | clip | 1] [indent][icon | 1] [diagnosticError & 1][filename omitCenter 1][modified][readonly] [linkIcon & 1][link growRight 1 omitCenter 5]",
+  "explorer.width": 30,
+  "explorer.toggle": true,
+  "explorer.quitOnOpen": true
+}
